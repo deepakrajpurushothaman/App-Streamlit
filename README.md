@@ -2,6 +2,10 @@
 
 App Needs database. In case you would like to try it then try it or mail me at deepakrajpurushothaman@gmail.com
 
+# Language 
+
+Python
+
 # Requirements
 
 numpy==1.16.4
